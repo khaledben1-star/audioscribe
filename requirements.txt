@@ -1,0 +1,3 @@
+faster-whisper==1.2.1
+streamlit
+av==14.2.0
