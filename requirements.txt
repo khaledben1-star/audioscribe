@@ -1,3 +1,2 @@
-faster-whisper==1.2.1
 streamlit
-av==14.2.0
+faster-whisper @ https://github.com/SYSTRAN/faster-whisper/archive/refs/heads/master.tar.gz
